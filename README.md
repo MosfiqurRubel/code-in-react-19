@@ -7,14 +7,17 @@ It has:
 - Vite
 - React 19.0(Stable Version)
 - TailwindCSS 4.x
+- React Router
+- Theme Toggle
+- Theme Customization
 
 ## Create Your Own React 19 Project with Vite and TailwindCSS
 
 There are multiple ways you can utilize this repository to create your own project. The most straightforward way is by using the follwoing command from the command prompt/terminal:
 
-```bash
+<!-- ```bash
 npx degit atapas/code-in-react-19#main <YOUR_PROJECT_NAME>
-```
+``` -->
 
 This will clone the repository to your project. Alternatively, you can fork this repo or create a new repo from the template by clicking on the button at the top-right corner.
 
